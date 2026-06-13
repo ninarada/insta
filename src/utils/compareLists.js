@@ -21,4 +21,5 @@ export const compareLists = (followersData, followingData) => {
     const notFollowingBack = following.filter(username => !followersSet.has(username));
     
     return notFollowingBack;
+    
   };
