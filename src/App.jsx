@@ -89,7 +89,7 @@ function App() {
       </Typography>
 
       <Typography sx={{fontWeight:'700', marginBottom: '40px', textAlign: 'center', fontSize:'18px'}}>
-        Zalijepi listu svojih pratitelja od prije i trenutnu listu i vidi tko te odpratio.
+        Zalijepi listu svojih pratitelja i vidi tko te odpratio.
       </Typography>
 
       <Box sx={{display:'grid', gridTemplateColumns:{xs:'1fr', md:'1fr 1fr'}, gap:'40px'}}>
